@@ -1,4 +1,4 @@
-# ✨ Alycia's Breathtaking Portfolio
+# ✨ Alycia's Portfolio
 
 > A stunning, interactive portfolio showcasing the art of UI/UX design and system analysis with mesmerizing 3D effects and animations.
 
