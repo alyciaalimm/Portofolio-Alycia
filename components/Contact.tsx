@@ -394,25 +394,9 @@ const Contact = () => {
             }}
             transition={{ type: "spring", stiffness: 300 }}
           >
-            <motion.p 
-              className="text-gray-600 font-semibold"
-              animate={{
-                backgroundImage: [
-                  "linear-gradient(90deg, #A7C7E7 0%, #C9ADE0 50%, #FFB6C1 100%)",
-                  "linear-gradient(90deg, #FFB6C1 0%, #A7C7E7 50%, #C9ADE0 100%)",
-                  "linear-gradient(90deg, #C9ADE0 0%, #FFB6C1 50%, #A7C7E7 100%)",
-                ],
-              }}
-              transition={{ duration: 5, repeat: Infinity }}
-              style={{
-                backgroundClip: "text",
-                WebkitBackgroundClip: "text" as any,
-                color: "transparent",
-                display: "inline-block"
-              }}
-            >
+            <p className="text-gray-600 font-semibold">
               Alycia Alim Ananta
-            </motion.p>
+            </p>
             <p className="text-sm text-gray-500 mt-2">
               © 2025 All rights reserved
             </p>
