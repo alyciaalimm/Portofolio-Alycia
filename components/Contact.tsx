@@ -402,8 +402,6 @@ const Contact = () => {
                   "linear-gradient(90deg, #FFB6C1 0%, #A7C7E7 50%, #C9ADE0 100%)",
                   "linear-gradient(90deg, #C9ADE0 0%, #FFB6C1 50%, #A7C7E7 100%)",
                 ],
-                backgroundClip: "text",
-                WebkitBackgroundClip: "text",
               }}
               transition={{ duration: 5, repeat: Infinity }}
               style={{
