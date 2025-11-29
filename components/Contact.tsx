@@ -406,7 +406,7 @@ const Contact = () => {
               transition={{ duration: 5, repeat: Infinity }}
               style={{
                 backgroundClip: "text",
-                WebkitBackgroundClip: "text",
+                WebkitBackgroundClip: "text" as any,
                 color: "transparent",
                 display: "inline-block"
               }}
