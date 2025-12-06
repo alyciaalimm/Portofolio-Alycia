@@ -152,7 +152,7 @@ This project is open source and available under the [MIT License](LICENSE).
 **Alycia Alim Ananta**
 
 - 📧 Email: anantaalycia@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/alycia-alim-ananta](https://linkedin.com/in/alycia-alim-ananta)
+- 💼 LinkedIn: [linkedin.com/in/alyciaalim](https://linkedin.com/in/alyciaalim)
 - 📱 Phone: 085700489342
 - 📍 Location: Semarang, Indonesia
 

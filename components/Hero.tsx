@@ -220,7 +220,7 @@ const Hero = () => {
               />
             </motion.a>
             <motion.a
-              href="https://linkedin.com/in/alycia-alim-ananta"
+              href="https://linkedin.com/in/alyciaalim"
               target="_blank"
               rel="noopener noreferrer"
               className="group relative p-4 bg-white/80 rounded-full shadow-lg backdrop-blur-sm border border-white/40"

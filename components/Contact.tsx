@@ -35,8 +35,8 @@ const Contact = () => {
     {
       icon: <Linkedin className="w-6 h-6" />,
       label: 'LinkedIn',
-      value: 'linkedin.com/in/alycia-alim-ananta',
-      href: 'https://linkedin.com/in/alycia-alim-ananta',
+      value: 'linkedin.com/in/alyciaalim',
+      href: 'https://linkedin.com/in/alyciaalim',
       color: 'from-pastel-pink to-pastel-blue'
     },
     {
